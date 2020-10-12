@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AreaOfCircle/bin/Debug/netcoreapp3.1
+/AreaOfCircle/obj/Debug/netcoreapp3.1
+/AreaOfCircle/obj/Release/netcoreapp3.1
+/.vs
+/AreaOfCircle/obj
